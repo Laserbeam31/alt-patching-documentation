@@ -1,2 +1,2 @@
 # alt-patching-documentation
-Patching details for the install data network in the ALT
+Documentation and diagrams for the ALT install data network
